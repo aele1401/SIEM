@@ -10,7 +10,7 @@
 - ***What sort of mitigation could you use to protect against this?***
 	* To proect users from getting completely locked out, some mitigation strategies are:
 		- Utilize multi-factor authentication (MFA).
-		- Notify users that, "Several login attempts were made, and the account has been locked. Contact support or reset password" to unlock the account.
+		- Notify users that, **"Several login attempts were made, and the account has been locked. Contact support or reset password"** to unlock the account.
 		- Set time constraints on how long user accounts are locked. (Account locked for 1 hour)
 
 ## Apache Web Server Attack
