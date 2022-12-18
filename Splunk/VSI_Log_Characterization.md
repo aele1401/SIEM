@@ -8,7 +8,7 @@
 	* Only allow connections from trusted sources or only accept domestic connections filtering out any foreign connections.
 - ***VSI has insider information that JobeCorp attempted to target users by sending "Bad Logins" to lock out users.***
 - ***What sort of mitigation could you use to protect against this?***
-	* To proect users from getting completely locked out, some mitigation strategies are:
+	* To protect users from getting completely locked out, some mitigation strategies are:
 		- Utilize multi-factor authentication (MFA).
 		- Notify users that, *"Several login attempts were made, and the account has been locked. Contact support or reset password"* to unlock the account.
 		- Set time constraints on how long user accounts are locked. (Account locked for 1 hour)
